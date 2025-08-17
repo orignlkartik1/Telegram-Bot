@@ -1,7 +1,9 @@
 # Telegram-Bot
 I'm creating Telegram Bot.
 
-For Telegram Bot , Go on BOTfather bot ask for api.
+For Telegram Bot , Go on Botfather bot ask for api.
+
+It ask for your username and Bot name.
 
 add your bot on your contact list and seaarch for your update. 
 
